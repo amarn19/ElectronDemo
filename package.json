@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "amar",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^8.1.1"
+  }
+}
